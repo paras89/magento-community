@@ -6,6 +6,10 @@ http://www.magentocommerce.com/download
 
 There is a branch for each Magento release version and no files have been modified.
 
+## Disclaimer
+
+While no files have been modified, please **do not use these branches for production sites**.  I am in no way responsible for the functionality of this codebase.  I'm simply providing a mirror of it for comparative purposes.  Please use the [official Magento site for downloading working copies](http://www.magentocommerce.com/download) of the Magento Community Edition codebase for production use.
+
 ## Useful Commands
 
 See what files changed from version to version.
