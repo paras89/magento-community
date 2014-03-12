@@ -1,10 +1,8 @@
 # Magento Community Edition Mirror
 
-This repository is a history of Magento Community releases going all the way back to 1.3.2.  The files were pulled from Magento download page.
+This repository is a history of Magento Community releases going all the way back to 1.1.0.
 
-http://www.magentocommerce.com/download
-
-There is a branch for each Magento release version and no files have been modified.
+There is a branch for each Magento release version (68 in total, so far) and no files have been modified.
 
 ## Disclaimer
 
