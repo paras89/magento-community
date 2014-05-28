@@ -10,7 +10,7 @@ While no files have been modified, please **do not use these branches for produc
 
 ## Latest Changes (1.9.0.1 vs. 1.9.0.0)
 
-    $ git diff --name-status 1.9.0.1..1.9.0.0
+    $ git diff --name-status 1.9.0.0..1.9.0.1
     M       app/Mage.php
     M       app/code/core/Mage/SalesRule/Model/Resource/Rule/Collection.php
     M       downloader/Maged/Controller.php
@@ -21,8 +21,8 @@ While no files have been modified, please **do not use these branches for produc
     M       var/package/Interface_Adminhtml_Default-1.9.0.0.xml
     M       var/package/Interface_Frontend_Base_Default-1.9.0.0.xml
     M       var/package/Interface_Frontend_Default-1.9.0.0.xml
-    A       var/package/Interface_Frontend_Rwd_Default-1.9.0.0.xml
-    D       var/package/Interface_Frontend_Rwd_Default-1.9.0.1.xml
+    D       var/package/Interface_Frontend_Rwd_Default-1.9.0.0.xml
+    A       var/package/Interface_Frontend_Rwd_Default-1.9.0.1.xml
     M       var/package/Interface_Install_Default-1.9.0.0.xml
     M       var/package/Lib_Js_Mage-1.9.0.0.xml
     M       var/package/Lib_Js_Prototype-1.7.0.0.5.xml
@@ -31,7 +31,27 @@ While no files have been modified, please **do not use these branches for produc
     M       var/package/Lib_Varien-1.9.0.0.xml
     M       var/package/Lib_ZF-1.12.3.0.xml
     M       var/package/Lib_ZF_Locale-1.12.3.0.xml
-    A       var/package/Mage_All_Latest-1.9.0.0.xml
+    D       var/package/Mage_All_Latest-1.9.0.0.xml
+    A       var/package/Mage_All_Latest-1.9.0.1.xml
+    D       var/package/Mage_Centinel-1.8.0.0.xml
+    A       var/package/Mage_Centinel-1.9.0.1.xml
+    D       var/package/Mage_Compiler-1.8.1.0.xml
+    A       var/package/Mage_Compiler-1.9.0.1.xml
+    M       var/package/Mage_Core_Adminhtml-1.9.0.0.xml
+    D       var/package/Mage_Core_Modules-1.9.0.0.xml
+    A       var/package/Mage_Core_Modules-1.9.0.1.xml
+    D       var/package/Mage_Downloader-1.9.0.0.xml
+    A       var/package/Mage_Downloader-1.9.0.1.xml
+    M       var/package/Mage_Locale_de_DE-1.9.0.0.xml
+    M       var/package/Mage_Locale_en_US-1.9.0.0.xml
+    M       var/package/Mage_Locale_es_ES-1.9.0.0.xml
+    M       var/package/Mage_Locale_fr_FR-1.9.0.0.xml
+    M       var/package/Mage_Locale_nl_NL-1.9.0.0.xml
+    M       var/package/Mage_Locale_pt_BR-1.9.0.0.xml
+    M       var/package/Mage_Locale_zh_CN-1.9.0.0.xml
+    M       var/package/Magento_Mobile-1.8.0.0.23.2.xml
+    A       var/package/Phoenix_Moneybookers-1.3.2.1.xml
+    D       var/package/Phoenix_Moneybookers-1.3.2.xml
 
 ## Useful Commands
 
